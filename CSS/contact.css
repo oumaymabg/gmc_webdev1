@@ -1,0 +1,15 @@
+body{
+    background-color: 7A0202;
+}
+div {
+    width:1500px; height: 500;
+}
+h1{
+    color:white;
+    font-size: 40px;
+    position: relative;
+
+}
+.input-form{
+    width:175px;
+}
